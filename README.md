@@ -1,5 +1,5 @@
 ![Banner Image with text "Shiela Peters: Web, UX, and Product Design"](https://github.com/Shiela-P/Shiela-P/blob/main/Banner.png)
-##Welcome to my github page!
+## Welcome to my github page!
 
 
 
