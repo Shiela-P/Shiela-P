@@ -1,4 +1,4 @@
-![Banner Image with text "Shiela Peters: Web, UX, and Product Design"]{Banner.png}
+![Banner Image with text "Shiela Peters: Web, UX, and Product Design"]{./Banner.png}
 
 
 
